@@ -1,0 +1,4 @@
+interface:
+  display_name: "Visual Design Pipeline"
+  short_description: "PRD-first visual design with validation gates"
+  default_prompt: "Use $visual-design-pipeline to understand my PRD, establish visual references, validate a Design Spec and produce design.md before generating final pages."
